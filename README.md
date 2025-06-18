@@ -8,3 +8,5 @@ roblox : xX_3lixXDD
 minecraft(server blocksmc) : xX_3lixXDD
 
 itch.io : xX_3lixXDD_dev
+
+discord : xX_3lixXDD
