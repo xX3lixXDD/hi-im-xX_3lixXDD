@@ -9,4 +9,4 @@ minecraft(server blocksmc) : xX_3lixXDD
 
 itch.io : xX_3lixXDD_dev
 
-discord : xX_3lixXDD
+discord : xX_3lixXDD1
